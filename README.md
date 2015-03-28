@@ -23,4 +23,4 @@ How does it work?
 
 * For an example of this in action you can look at the above example link.
 
-* This has been tested on Firefox, Chrome, and IE9+ and works.
+* This has been tested on Firefox, Chrome, and IE9+.
