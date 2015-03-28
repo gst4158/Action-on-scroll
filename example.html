@@ -2,13 +2,13 @@
 <html lang="en" prefix="og: http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#">
 <head runat="server">
 	
-  <meta charset="utf-8">
+  	<meta charset="utf-8">
 	<title>Scroll On Action Example</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="description" content="">
 	
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+    	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
     
 	<style>
         #cover {
@@ -33,10 +33,19 @@
           -o-background-size: cover;
           background-size: cover;
         }
+        
         #cover.swipe {
           margin-top: -100%;
         }
         
+	.arrowdown {
+		position: absolute;
+		width: 100px;
+		bottom: 3%;
+		left: 0; right: 0;
+		margin: auto;
+	}
+		
         #content {
             position: relaive;
             display: block;
@@ -111,7 +120,7 @@
 <body>
 
 <div id="cover">
-	<a class="arrowdown" href="#content" title=""></a>
+	<a class="arrowdown" href="#content" title="">anchor tag</a>
 </div>
 
 <section id="content">
