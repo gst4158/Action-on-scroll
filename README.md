@@ -1,7 +1,6 @@
 # Action-on-scroll
 
-# Randomize Text
- [![License](http://img.shields.io/badge/License-MIT-blue.svg)](http://opensource.org/licenses/MIT)
+[![License](http://img.shields.io/badge/License-MIT-blue.svg)](http://opensource.org/licenses/MIT)
 
 ### jQuery function to take an action when the user scrolls up or down
 
