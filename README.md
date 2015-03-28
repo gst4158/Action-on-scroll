@@ -5,7 +5,7 @@
 ### jQuery function to take an action when the user scrolls up or down
 
 ***
-### [→ Example File ←]()
+### [→ Example File ←](https://raw.githubusercontent.com/gst4158/Action-on-scroll/master/example.html)
 ***
 
 Installation
@@ -15,7 +15,6 @@ Include the coverControl() function inside your script.js or where you keep your
 
 Detailed Explaination
 -----------
-**Credit for the scroll detection goes to user ftntravis on http://stackoverflow.com/ **
 
 How does it work? 
 
@@ -24,3 +23,5 @@ How does it work?
 * For an example of this in action you can look at the above example link.
 
 * This has been tested on Firefox, Chrome, and IE9+.
+
+**Credit for the scroll detection goes to user ftntravis on http://stackoverflow.com/ **
